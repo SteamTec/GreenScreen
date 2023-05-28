@@ -1,0 +1,22 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+892,1,"Becker, Mr. Reid",male,74.5,0,0,A/4 21171,60.8292,,Q
+893,3,"Name2, Miss. Name2",female,18,3,3,363272,10,,S
+894,2,"Name3, Maj. Name3",male,47,1,1,240276,50.6875,,Q
+895,2,"Name4, Mrs.",female,35,1,3,315154,35.6625,,S
+896,1,"Name5, Master. Name5",male,5,1,5,3101298,45.2875,,C
+897,3,"Name6, Miss. Name6",female,16,1,3,7538,5.225,,C
+898,2,"Name7, Miss. Name7",female,21,2,0,330972,25.6292,,Q
+899,1,"Name8, Jonkheer. Name8",male,14,3,4,248738,55,,S
+900,1,"Name9, Master. Name9",male,10,1,3,2657,40.2292,,S
+901,3,"Name10, Miss. Name10",female,17,0,2,A/4 48871,10.15,,S
+902,1,"Name11, Master. Name11",male,3,4,3,349220,40.8958,,S
+903,2,"Name12, Mrs. Name12",female,38,3,0,694,25,,Q
+904,3,"Name13, Miss. Name13",female,18,1,3,21228,10.2667,B45,C
+905,3,"Name14, Mr. Name14",male,34,0,0,24065,10,,S
+906,1,"Name15, Mrs. Name15",female,54,1,1,W.E.P. 5734,50.175,E31,S
+907,1,"Name16, Master. Name16",male,7,1,2,SC/PARIS 2167,60.7208,,Q
+908,2,"Name17, Mr. Name17",male,31,1,1,233734,20.35,,C
+909,3,"Name18, Miss. Name18",female,18,2,2,2692,5.225,,S
+910,2,"Name19, Mr. Name19",male,64,1,1,STON/O2. 3101270,25.925,,C
+911,3,"Name20, Mrs. Name20",female,59,1,1,2696,10.225,,Q
+912,2,"Name21, Miss. Name21",female,12,1,2,PC 17603,25.4,,S
