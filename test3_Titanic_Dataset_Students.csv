@@ -10,7 +10,7 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 900,3,"Salas, Johnkeer. Briahna",female,15,1,2,2657,70.0000,A15,B
 901,2,"Smith, Mr. Skylar",male,14,2,4,A/4 48871,56.0000,A22,C
 902,2,"Pastor, Miss. Joselynn",female,15,2,3,349220,69.0000,C26,S
-903,1,"Trusty, Miss. Amity",female,15,0,0,694,65.0000,B45,Q
+903,2,"Trusty, Miss. Amity",female,16,1,2,694,15.0000,A15,C
 904,3,"Berget, Miss. Sue",female,36,4,3,21228,7.0000,F24,S
 905,1,"Choban, Mr. Robert",male,75,1,0,24065,80.0000,A35,B
 906,1,"Crawford, Mrs. Caroline",female,50,1,0,W.E.P. 5734,16.0000,A16,B
